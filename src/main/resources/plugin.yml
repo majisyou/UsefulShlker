@@ -1,0 +1,6 @@
+name: UsefulShulker
+version: '${version}'
+main: com.github.majisyou.usefulshulker.UsefulShulker
+api-version: 1.18
+authors: [ majisyou ]
+description: UsefulShulker
